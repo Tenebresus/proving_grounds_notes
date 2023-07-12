@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Machines/Sorcerer/192.168.199.100.md",
+                "file": "Linux Machines/Voip/192.168.224.156.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Machines/Sorcerer/192.168.199.100.md",
+                "file": "Linux Machines/Voip/192.168.224.156.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Machines/Sorcerer/192.168.199.100.md",
+                "file": "Linux Machines/Voip/192.168.224.156.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Machines/Sorcerer/192.168.199.100.md"
+                "file": "Linux Machines/Voip/192.168.224.156.md"
               }
             }
           }
@@ -148,11 +148,17 @@
   },
   "active": "26347005836bfe41",
   "lastOpenFiles": [
+    "lu59307nnlg.tmp",
+    "Windows Machines/Algernon/Pasted image 20230712203813.png",
+    "Linux Machines/Sorcerer/192.168.199.100.md",
+    "Linux Machines/Voip/192.168.224.156.md",
+    "Windows Machines/Algernon/Pasted image 20230712203651.png",
+    "Windows Machines/Algernon/Pasted image 20230712203459.png",
+    "Linux Machines/Voip",
     "boxes_statussen.ods",
     "Windows Machines/Algernon/Pasted image 20230708150923.png",
     "Windows Machines/Algernon/Pasted image 20230708150609.png",
     "Linux Machines/Nukem/192.168.229.105.md",
-    "Linux Machines/Sorcerer/192.168.199.100.md",
     "Linux Machines/Sorcerer/Untitled",
     "Linux Machines/Sorcerer",
     "Linux Machines/ZenPhoto/192.168.57.41.md",
@@ -168,9 +174,7 @@
     "Linux Machines/Nibbles/192.168.227.47.md",
     "Linux Machines/Malbec/192.168.234.129.md",
     "Linux Machines/Sybaris",
-    "Linux Machines/Malbec",
     "Windows Machines/Squid/192.168.161.189.md",
-    "Linux Machines/hetemit.zip",
     "Linux Machines/Dibble/192.168.232.110.md",
     "Windows Machines/Resourced/192.168.234.64.md",
     "Windows Machines/Craft/192.168.181.169.md",
@@ -185,7 +189,6 @@
     "Windows Machines/Shenzi/192.168.166.55.md",
     "Windows Machines/Medjed/192.168.249.127.md",
     "Windows Machines/Jacko/192.168.219.66.md",
-    "Windows Machines/Slort/192.168.182.53.md",
     "Windows Machines/Algernon/screenshots/2023-05-21_12-37.png",
     "Windows Machines/Nickel/screenshots/2023-05-20_14-13.png",
     "Windows Machines/Nickel/screenshots/2023-05-20_14-10.png",
