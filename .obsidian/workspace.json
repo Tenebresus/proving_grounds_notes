@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "6e159e1a5802c65a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4acf5c7018fa005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26347005836bfe41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Machines/Sorcerer/192.168.199.100.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d972f3efcad532fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bd440dcc3b129e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6d0c1da592220fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1701d47c414fe9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "unix_chkpwd",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1de2cc441c5d6b45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8de0fc38f7892124",
+    "type": "split",
+    "children": [
+      {
+        "id": "51552350761c31e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6258dc27dc20df44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux Machines/Sorcerer/192.168.199.100.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb209fe288753d96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux Machines/Sorcerer/192.168.199.100.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4d782e065d9abe8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7dac3530465f8bda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux Machines/Sorcerer/192.168.199.100.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "26347005836bfe41",
+  "lastOpenFiles": [
+    "Windows Machines/Algernon/Pasted image 20230708150923.png",
+    "Windows Machines/Algernon/Pasted image 20230708150609.png",
+    "Linux Machines/Nukem/192.168.229.105.md",
+    "Linux Machines/Sorcerer/192.168.199.100.md",
+    "Linux Machines/Sorcerer/Untitled",
+    "Linux Machines/Sorcerer",
+    "Linux Machines/ZenPhoto/192.168.57.41.md",
+    "Linux Machines/Nukem",
+    "Linux Machines/Readys/192.168.229.166.md",
+    "Linux Machines/ZenPhoto",
+    "Linux Machines/ZenPhoto.zip",
+    "Linux Machines/Unconfirmed 816483.crdownload",
+    "Linux Machines/Sybaris/192.168.234.93.md",
+    "Linux Machines/Readys",
+    "Linux Machines/Hetemit/192.168.234.117.md",
+    "Linux Machines/Zino/192.168.234.64.md",
+    "Linux Machines/Nibbles/192.168.227.47.md",
+    "Linux Machines/Malbec/192.168.234.129.md",
+    "Linux Machines/Sybaris",
+    "Linux Machines/Malbec",
+    "Windows Machines/Squid/192.168.161.189.md",
+    "Linux Machines/hetemit.zip",
+    "Linux Machines/Dibble/192.168.232.110.md",
+    "Windows Machines/Resourced/192.168.234.64.md",
+    "Windows Machines/Craft/192.168.181.169.md",
+    "Linux Machines/Hunit/192.168.232.125.md",
+    "Linux Machines/Banzai/192.168.224.56.md",
+    "Windows Machines/Algernon/notes/192.168.184.65.md",
+    "Windows Machines/DVR4/192.168.206.179.md",
+    "Linux Machines/Fail/192.168.227.126.md",
+    "Linux Machines/Wheels/192.168.180.202.md",
+    "Linux Machines/Exfiltrated/192.168.249.163.md",
+    "Windows Machines/Billyboss/192.168.249.61.md",
+    "Windows Machines/Shenzi/192.168.166.55.md",
+    "Windows Machines/Medjed/192.168.249.127.md",
+    "Windows Machines/Jacko/192.168.219.66.md",
+    "Windows Machines/Slort/192.168.182.53.md",
+    "Windows Machines/Algernon/screenshots/2023-05-21_12-37.png",
+    "Windows Machines/Nickel/screenshots/2023-05-20_14-13.png",
+    "Windows Machines/Nickel/screenshots/2023-05-20_14-10.png",
+    "Windows Machines/Nickel/screenshots/2023-05-20_08-49.png",
+    "Windows Machines/Nickel/screenshots/2023-05-20_08-47.png"
+  ]
+}
