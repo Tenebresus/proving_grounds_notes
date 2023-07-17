@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Machines/Walla/192.168.182.97.md",
+                "file": "Linux Machines/Pelican/192.168.208.98.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Machines/Walla/192.168.182.97.md",
+                "file": "Linux Machines/Pelican/192.168.208.98.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Machines/Walla/192.168.182.97.md",
+                "file": "Linux Machines/Pelican/192.168.208.98.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Machines/Walla/192.168.182.97.md"
+                "file": "Linux Machines/Pelican/192.168.208.98.md"
               }
             }
           }
@@ -148,27 +148,28 @@
   },
   "active": "26347005836bfe41",
   "lastOpenFiles": [
+    "lu1112281p6b.tmp",
+    "lu1112281p68.tmp",
+    "lu1112281p65.tmp",
+    "lu1112281p62.tmp",
+    "lu1112281p5z.tmp",
+    "Linux Machines/Walla/192.168.182.97.md",
+    "Linux Machines/Pelican/192.168.208.98.md",
+    "Linux Machines/Pelican",
+    "lu57039eoc7.tmp",
+    "lu57039eoc4.tmp",
     "lu57039eoc1.tmp",
     "Linux Machines/Voip/192.168.213.156.md",
-    "Linux Machines/Walla/192.168.182.97.md",
     "Linux Machines/Walla",
     "lu59307nnlp.tmp",
-    "lu59307nnlm.tmp",
-    "lu59307nnlj.tmp",
-    "lu59307nnlg.tmp",
     "Windows Machines/Algernon/Pasted image 20230712203813.png",
     "Linux Machines/Sorcerer/192.168.199.100.md",
     "Windows Machines/Algernon/Pasted image 20230712203651.png",
     "Windows Machines/Algernon/Pasted image 20230712203459.png",
-    "Linux Machines/Voip",
-    "boxes_statussen.ods",
     "Windows Machines/Algernon/Pasted image 20230708150923.png",
     "Windows Machines/Algernon/Pasted image 20230708150609.png",
     "Linux Machines/Nukem/192.168.229.105.md",
-    "Linux Machines/Sorcerer/Untitled",
-    "Linux Machines/Sorcerer",
     "Linux Machines/ZenPhoto/192.168.57.41.md",
-    "Linux Machines/Nukem",
     "Linux Machines/Readys/192.168.229.166.md",
     "Linux Machines/Sybaris/192.168.234.93.md",
     "Linux Machines/Hetemit/192.168.234.117.md",
@@ -188,7 +189,6 @@
     "Linux Machines/Exfiltrated/192.168.249.163.md",
     "Windows Machines/Billyboss/192.168.249.61.md",
     "Windows Machines/Shenzi/192.168.166.55.md",
-    "Windows Machines/Medjed/192.168.249.127.md",
     "Windows Machines/Algernon/screenshots/2023-05-21_12-37.png",
     "Windows Machines/Nickel/screenshots/2023-05-20_14-13.png",
     "Windows Machines/Nickel/screenshots/2023-05-20_14-10.png",
