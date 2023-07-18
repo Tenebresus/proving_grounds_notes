@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Machines/Snookums/192.168.208.58.md",
+                "file": "Linux Machines/ERP/192.168.208.227.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Machines/Snookums/192.168.208.58.md",
+                "file": "Linux Machines/ERP/192.168.208.227.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Machines/Snookums/192.168.208.58.md",
+                "file": "Linux Machines/ERP/192.168.208.227.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Machines/Snookums/192.168.208.58.md"
+                "file": "Linux Machines/ERP/192.168.208.227.md"
               }
             }
           }
@@ -148,20 +148,21 @@
   },
   "active": "26347005836bfe41",
   "lastOpenFiles": [
+    "lu20742n7rcv.tmp",
+    "lu20742n7rcs.tmp",
+    "Linux Machines/Snookums/192.168.208.58.md",
+    "Linux Machines/ERP/192.168.208.227.md",
+    "Linux Machines/ERP",
     "lu135019m4mo.tmp",
     "lu135019m4ml.tmp",
     "lu135019m4mi.tmp",
     "lu135019m4mf.tmp",
     "Linux Machines/Pelican/192.168.208.98.md",
-    "Linux Machines/Snookums/192.168.208.58.md",
     "Linux Machines/Snookums",
     "lu1112281p6b.tmp",
     "lu1112281p68.tmp",
     "lu1112281p65.tmp",
-    "lu1112281p62.tmp",
-    "lu1112281p5z.tmp",
     "Linux Machines/Walla/192.168.182.97.md",
-    "Linux Machines/Pelican",
     "Linux Machines/Voip/192.168.213.156.md",
     "Windows Machines/Algernon/Pasted image 20230712203813.png",
     "Linux Machines/Sorcerer/192.168.199.100.md",
@@ -188,7 +189,6 @@
     "Linux Machines/Fail/192.168.227.126.md",
     "Linux Machines/Wheels/192.168.180.202.md",
     "Linux Machines/Exfiltrated/192.168.249.163.md",
-    "Windows Machines/Billyboss/192.168.249.61.md",
     "Windows Machines/Algernon/screenshots/2023-05-21_12-37.png",
     "Windows Machines/Nickel/screenshots/2023-05-20_14-13.png",
     "Windows Machines/Nickel/screenshots/2023-05-20_14-10.png",
