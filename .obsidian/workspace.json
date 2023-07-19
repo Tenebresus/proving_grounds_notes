@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Machines/ERP/192.168.208.227.md",
+                "file": "Linux Machines/Snookums/192.168.161.58.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Machines/ERP/192.168.208.227.md",
+                "file": "Linux Machines/Snookums/192.168.161.58.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Machines/ERP/192.168.208.227.md",
+                "file": "Linux Machines/Snookums/192.168.161.58.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Machines/ERP/192.168.208.227.md"
+                "file": "Linux Machines/Snookums/192.168.161.58.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "26347005836bfe41",
   "lastOpenFiles": [
+    "lu1847w3o.tmp",
+    "Linux Machines/ERP/192.168.208.227.md",
     "lu20742n7rcv.tmp",
     "lu20742n7rcs.tmp",
-    "Linux Machines/Snookums/192.168.208.58.md",
-    "Linux Machines/ERP/192.168.208.227.md",
+    "Linux Machines/Snookums/192.168.161.58.md",
     "Linux Machines/ERP",
     "lu135019m4mo.tmp",
     "lu135019m4ml.tmp",
@@ -161,7 +162,6 @@
     "Linux Machines/Snookums",
     "lu1112281p6b.tmp",
     "lu1112281p68.tmp",
-    "lu1112281p65.tmp",
     "Linux Machines/Walla/192.168.182.97.md",
     "Linux Machines/Voip/192.168.213.156.md",
     "Windows Machines/Algernon/Pasted image 20230712203813.png",
