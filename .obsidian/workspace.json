@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Machines/Depreciated/192.168.181.170.md",
+                "file": "Linux Machines/Postfish/192.168.164.137.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Machines/Depreciated/192.168.181.170.md",
+                "file": "Linux Machines/Postfish/192.168.164.137.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Machines/Depreciated/192.168.181.170.md",
+                "file": "Linux Machines/Postfish/192.168.164.137.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Machines/Depreciated/192.168.181.170.md"
+                "file": "Linux Machines/Postfish/192.168.164.137.md"
               }
             }
           }
@@ -148,21 +148,22 @@
   },
   "active": "26347005836bfe41",
   "lastOpenFiles": [
+    "lu18301a9p.tmp",
+    "lu18301a9m.tmp",
+    "lu18301a9j.tmp",
+    "lu18301a9g.tmp",
+    "Linux Machines/Depreciated/192.168.181.170.md",
+    "Linux Machines/Postfish/192.168.164.137.md",
+    "Linux Machines/Postfish/Untitled",
+    "Linux Machines/Postfish",
     "lu31839as4.tmp",
     "Linux Machines/ERP/192.168.220.227.md",
-    "Linux Machines/Depreciated/192.168.181.170.md",
     "Linux Machines/Depreciated",
     "lu9894ajbk1.tmp",
     "Linux Machines/Wheels/192.168.180.202.md",
     "Linux Machines/Snookums/192.168.161.58.md",
     "lu1847w3o.tmp",
     "lu20742n7rcv.tmp",
-    "lu20742n7rcs.tmp",
-    "Linux Machines/ERP",
-    "lu135019m4mo.tmp",
-    "lu135019m4ml.tmp",
-    "lu135019m4mi.tmp",
-    "lu135019m4mf.tmp",
     "Linux Machines/Pelican/192.168.208.98.md",
     "Linux Machines/Walla/192.168.182.97.md",
     "Linux Machines/Voip/192.168.213.156.md",
@@ -188,7 +189,6 @@
     "Linux Machines/Banzai/192.168.224.56.md",
     "Windows Machines/Algernon/notes/192.168.184.65.md",
     "Windows Machines/DVR4/192.168.206.179.md",
-    "Linux Machines/Fail/192.168.227.126.md",
     "Windows Machines/Algernon/screenshots/2023-05-21_12-37.png",
     "Windows Machines/Nickel/screenshots/2023-05-20_14-13.png",
     "Windows Machines/Nickel/screenshots/2023-05-20_14-10.png",
