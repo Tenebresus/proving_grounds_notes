@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Machines/Peppo/192.168.166.60.md",
+                "file": "Linux Machines/Peppo/192.168.183.60.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Machines/Peppo/192.168.166.60.md",
+                "file": "Linux Machines/Peppo/192.168.183.60.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Machines/Peppo/192.168.166.60.md",
+                "file": "Linux Machines/Peppo/192.168.183.60.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Machines/Peppo/192.168.166.60.md"
+                "file": "Linux Machines/Peppo/192.168.183.60.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "26347005836bfe41",
   "lastOpenFiles": [
+    "lu753366vxu.tmp",
     "lu347315lef.tmp",
     "lu347315lec.tmp",
     "Linux Machines/Postfish/192.168.164.137.md",
-    "Linux Machines/Peppo/192.168.166.60.md",
+    "Linux Machines/Peppo/192.168.183.60.md",
     "Linux Machines/Peppo",
     "lu18301a9p.tmp",
     "lu18301a9m.tmp",
@@ -162,7 +163,6 @@
     "Linux Machines/Postfish",
     "lu31839as4.tmp",
     "Linux Machines/ERP/192.168.220.227.md",
-    "Linux Machines/Depreciated",
     "Linux Machines/Wheels/192.168.180.202.md",
     "Linux Machines/Snookums/192.168.161.58.md",
     "Linux Machines/Pelican/192.168.208.98.md",
