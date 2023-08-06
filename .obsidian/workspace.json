@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Machines/Resourced/192.168.192.175.md",
+                "file": "Windows Machines/Resourced/192.168.218.175.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Machines/Resourced/192.168.192.175.md",
+                "file": "Windows Machines/Resourced/192.168.218.175.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Machines/Resourced/192.168.192.175.md",
+                "file": "Windows Machines/Resourced/192.168.218.175.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Machines/Resourced/192.168.192.175.md"
+                "file": "Windows Machines/Resourced/192.168.218.175.md"
               }
             }
           }
@@ -184,7 +184,7 @@
     "Linux Machines/Malbec/192.168.234.129.md",
     "Windows Machines/Squid/192.168.161.189.md",
     "Linux Machines/Dibble/192.168.232.110.md",
-    "Windows Machines/Resourced/192.168.192.175.md",
+    "Windows Machines/Resourced/192.168.218.175.md",
     "Windows Machines/Craft/192.168.181.169.md",
     "Linux Machines/Hunit/192.168.232.125.md",
     "Linux Machines/Banzai/192.168.224.56.md",
