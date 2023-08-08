@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Machines/Resourced/192.168.218.175.md",
+                "file": "Windows Machines/Hutch/192.168.184.122.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Machines/Resourced/192.168.218.175.md",
+                "file": "Windows Machines/Hutch/192.168.184.122.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Machines/Resourced/192.168.218.175.md",
+                "file": "Windows Machines/Hutch/192.168.184.122.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Machines/Resourced/192.168.218.175.md"
+                "file": "Windows Machines/Hutch/192.168.184.122.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "26347005836bfe41",
   "lastOpenFiles": [
+    "lu10489nfkc8.tmp",
+    "Windows Machines/Resourced/192.168.184.175.md",
+    "Windows Machines/Hutch/192.168.184.122.md",
+    "Windows Machines/Hutch",
+    "lu10489nfkc5.tmp",
     "lu753366vy3.tmp",
     "Linux Machines/Peppo/192.168.183.60.md",
     "lu753366vy0.tmp",
@@ -158,9 +163,6 @@
     "Linux Machines/Postfish/192.168.164.137.md",
     "Linux Machines/Peppo",
     "lu18301a9p.tmp",
-    "lu18301a9m.tmp",
-    "lu18301a9j.tmp",
-    "lu18301a9g.tmp",
     "Linux Machines/Depreciated/192.168.181.170.md",
     "Linux Machines/ERP/192.168.220.227.md",
     "Linux Machines/Wheels/192.168.180.202.md",
@@ -184,11 +186,9 @@
     "Linux Machines/Malbec/192.168.234.129.md",
     "Windows Machines/Squid/192.168.161.189.md",
     "Linux Machines/Dibble/192.168.232.110.md",
-    "Windows Machines/Resourced/192.168.218.175.md",
     "Windows Machines/Craft/192.168.181.169.md",
     "Linux Machines/Hunit/192.168.232.125.md",
     "Linux Machines/Banzai/192.168.224.56.md",
-    "Windows Machines/Algernon/notes/192.168.184.65.md",
     "Windows Machines/Algernon/screenshots/2023-05-21_12-37.png",
     "Windows Machines/Nickel/screenshots/2023-05-20_14-13.png",
     "Windows Machines/Nickel/screenshots/2023-05-20_14-10.png",
